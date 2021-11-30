@@ -1,2 +1,2 @@
 # ReactProjects
-this con contain react projects
+This can contain react projects
